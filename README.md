@@ -8,7 +8,7 @@ The platform enables potential adopters to browse available pets and book appoin
 Main task in this repo is ti create unit tests
 
 Added some functional to the apps, like:
-- Created TestSchedule.py
+- Created Test_schedule.py
 
 ## Run API
 1. Clone the repository:  
