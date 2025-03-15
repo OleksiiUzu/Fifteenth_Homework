@@ -13,8 +13,8 @@ Added some functional to the apps, like:
 ## Run API
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/OleksiiUzu/django-api-homework-14-forms.git
-   cd django-api-homework-14-forms
+   git clone https://github.com/OleksiiUzu/django-api-homework-15-unit-tests.git
+   cd django-api-homework-15-unit-tests
 2.(Optional) Create and activate a virtual environment:
   python -m venv venv
   source venv/bin/activate
