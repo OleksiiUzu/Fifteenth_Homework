@@ -5,7 +5,7 @@ This repository is my fifteenth homework assignment from the Python Pro course. 
 I will make web-site that calls pet-shelter. Tha main idea for this site is to allow users to schedule visits with animals in a shelter. 
 The platform enables potential adopters to browse available pets and book appointments to meet them in person.
 
-Main task in this repo is ti create unit tests
+Main task in this repo is to create unit tests for the schedule_calculations.py in animals app folder
 
 Added some functional to the apps, like:
 - Created Test_schedule.py
